@@ -1,6 +1,6 @@
-Beesandbombs/davidope Inspired Three.js Animation
--------------------------------------------------
-Recreating a GIF I saw with Three.JS
+Chess board Illusion.
+
+Potential background of redqueenxyz website.
 
 A [Pen](https://codepen.io/mihailocvet/pen/XgKJYW) by [mihailocvet](http://codepen.io/mihailocvet) on [CodePen](http://codepen.io/).
 
