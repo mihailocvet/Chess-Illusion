@@ -1,7 +1,7 @@
 let scene = new THREE.Scene();
-let camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, .1, 40 );
+let camera = new THREE.PerspectiveCamera( 3075, window.innerWidth / window.innerHeight, .1, 40 );
 camera.position.z = 17;
-const SPEED = 0.0025;
+const SPEED = 0.001;
 
 let renderer = new THREE.WebGLRenderer( { antialias: true } );
 renderer.setPixelRatio( window.devicePixelRatio );
